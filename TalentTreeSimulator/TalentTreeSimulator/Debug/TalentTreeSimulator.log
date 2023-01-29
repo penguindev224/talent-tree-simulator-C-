@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\home\desktop\assignment\data_structure_and_algorithm\talenttreesimulator\talenttreesimulator\main.cpp(26): warning C4101: 'node': unreferenced local variable
+  TalentTreeSimulator.vcxproj -> C:\Users\home\Desktop\assignment\Data_Structure_and_Algorithm\TalentTreeSimulator\Debug\TalentTreeSimulator.exe
+  TalentTreeSimulator.vcxproj -> C:\Users\home\Desktop\assignment\Data_Structure_and_Algorithm\TalentTreeSimulator\Debug\TalentTreeSimulator.pdb (Full PDB)
